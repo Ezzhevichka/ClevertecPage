@@ -1,0 +1,47 @@
+.promo-interactive-films {
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+    font-size: 200%;
+    color: orange;
+    text-decoration: none;
+    position: relative;
+    outline: 2px solid white;
+    background-image: url("img/interstellar.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 768px;
+    width: 1860px;
+}
+.films-button {
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+}
+.rezka {
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+}
+.rezka-color {
+    color: whitesmoke;
+}
+.head-films {
+    background-color: black;
+}
+.adding-input-films {
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 5px;
+    left: 20px;
+    padding-left: 5px;
+    height: 40px;
+    width: 200px;
+}
+.films-button {
+    position: absolute;
+    left: 270px;
+    height: 30px;
+}
+.delete-films {
+    position: absolute;
+    left: 400px;
+    height: 30px;
+}
+

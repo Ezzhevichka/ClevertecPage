@@ -1,0 +1,72 @@
+.body {
+    background-image: url("img/unnamed.png");
+}
+.Header-Smoogy {
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+    font-size: 200%;
+    color: orange;
+    text-decoration: none;
+}
+.Header-Description {
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+    font-size: 130%;
+    color: orange;
+    text-decoration: none;
+}
+.box {
+    background-color: black;
+}
+.page-home {
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+    font-size: 200%;
+    color: orange;
+    text-decoration: none;
+}
+.vk {
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.vk-text {
+    color: whitesmoke;
+}
+.insta {
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.insta-text {
+    color: whitesmoke;
+}
+.gmail {
+    width: 50px;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.gmail-text {
+    color: whitesmoke;
+}
+.head {
+    background-color: black;
+}
+.git {
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.git-text {
+    color: whitesmoke;
+}
+.skype {
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.skype-text {
+    color: whitesmoke;
+}

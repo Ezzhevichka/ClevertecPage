@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5853af61-4ac1-4946-b4eb-a0eef66b4ca3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kYTepSdZiFasoUTB0gZnB7nEQD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/asdasd" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\site\films" />
+      <recent name="C:\Users\User\Desktop\site\games" />
+      <recent name="C:\Users\User\Desktop\site\music" />
+      <recent name="C:\Users\User\Desktop\site\serials" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5853af61-4ac1-4946-b4eb-a0eef66b4ca3" name="Default Changelist" comment="" />
+      <created>1605876622581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605876622581</updated>
+      <workItem from="1605876623784" duration="1621000" />
+      <workItem from="1605886214188" duration="6472000" />
+      <workItem from="1605902728311" duration="5647000" />
+      <workItem from="1605943058599" duration="3223000" />
+      <workItem from="1605947541936" duration="9814000" />
+      <workItem from="1606040019608" duration="4823000" />
+      <workItem from="1606048613675" duration="385000" />
+      <workItem from="1606075473876" duration="3745000" />
+      <workItem from="1606111926792" duration="6110000" />
+      <workItem from="1606123812113" duration="4483000" />
+      <workItem from="1606162988063" duration="2916000" />
+      <workItem from="1606166162903" duration="849000" />
+      <workItem from="1606207452759" duration="27471000" />
+      <workItem from="1606309344060" duration="1868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="952" y="365" key="#Inspections" timestamp="1605948740613">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="952" y="365" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1605948740613" />
+    <state x="531" y="328" key="FileChooserDialogImpl" timestamp="1606217257164">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="531" y="328" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1606217257164" />
+    <state x="0" y="0" width="1069" height="902" key="dock-window-1" timestamp="1606217067701">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="0" width="1069" height="902" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1606217067701" />
+    <state x="843" y="244" key="run.anything.popup" timestamp="1606041692664">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="843" y="244" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606041692664" />
+  </component>
+</project>

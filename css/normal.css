@@ -1,0 +1,18 @@
+@media only screen and (max-width: 992px) {
+    .body {
+        width: 750px;
+    }
+
+    .promo-interactive-films {
+        width: 750px;
+    }
+
+    .promo-interactive-music {
+        width: 750px;
+    }
+
+    .promo-interactive-games {
+        width: 750px;
+    }
+}
+
