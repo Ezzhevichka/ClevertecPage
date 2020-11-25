@@ -1,0 +1,23 @@
+.footer {
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+    font-size: 150%;
+    color: orange;
+    text-decoration: none;
+    position: relative;
+    outline: 2px solid white;
+    height: 300px;
+    width: 1000px;
+}
+.footer a{
+    position: relative;
+    display: inline-block;
+    padding: 12px 35px;
+    bottom: 15%;
+}
+.footer-head {
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+    font-size: 200%;
+    color: orange;
+    background: black;
+    position: relative;
+}

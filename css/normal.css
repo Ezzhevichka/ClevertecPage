@@ -14,5 +14,16 @@
     .promo-interactive-games {
         width: 99%;
     }
+    .page-home {
+        width: 99%;
+    }
+}
+@media only screen and (max-width: 1000px) {
+    .footer {
+        width: 100%;
+    }
+    .footer-head {
+        width: 100%;
+    }
 }
 
